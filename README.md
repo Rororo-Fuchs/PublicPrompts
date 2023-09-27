@@ -5,4 +5,6 @@ ExpertArticleWriter_reduced is a prompt that helps You write texts. It summons s
 
 AbstractToMindmap is a prompt that analyzes a text file and gives an abstract either as a mindmap or a textfile. It validates the abstracts by quoting significant passages of the text.
 
+Hyper is an example prompt from the author underscore to demonstrate how prompt hacking works. It has been already patched by OpenAI, so it can't be used anymore. It's upped here solely for demonstration.
+
 I have reduced the prompt by using promptreducer's code: https://www.promptreducer.com/
