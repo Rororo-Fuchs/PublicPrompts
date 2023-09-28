@@ -1,0 +1,6 @@
+Die anliegende Datei enthält Notizen für ein Bewerbungsgespräch aus Sicht des Arbeitsgebers.  
+Die Notizen wurden bei der Durchsicht der Bewerbungsunterlagen angefertigt. 
+Sie nehmen konkret Bezug auf die Unterlage, stellen aber auch allgemeine wichtige Fragen. 
+Ausgeschrieben ist eine Stelle als Kita-Leitung. Schlage mir eine sinnvolle Gruppierung der Notizen vor. 
+Wenn ich einverstanden bin, bring die Notizen in eine entsprechende sinnvolle Reihenfolge. 
+Erzeuge daraus eine Exceldatei mit sinnvoller Gliederung, die  im Gespräch vom Arbeitgeber als Checkliste dienen soll und für Notizen zu den einzelnen Punkten erlaubt.
